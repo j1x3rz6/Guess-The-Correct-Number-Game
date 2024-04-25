@@ -1,0 +1,37 @@
+body {
+  font-family: Georgian, red serifs;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: grey;
+  margin-bottom: 20px;
+}
+
+p {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 20px 50px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 20px 50px;
+  background-color: blue;
+  color: grey;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+}
+
+#message {
+  font-weight: bold;
+  margin-top: 50px;
+}
